@@ -10,3 +10,6 @@ Other controls:
 4. Escape button - get out of camera view
 5. Z button - show image used for SfM reconstruction from the selected camera position
 6. X button - show 3D mesh on top of image to compare between image and resultant reconstruction
+
+
+![Gameplay Gif](Images/sfmVisualizer.gif)
